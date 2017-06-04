@@ -1,4 +1,5 @@
-# wavspiffs
+ESP8266Wavspiffs
+----------------
 
 Read WAV/RIFF audio files. Parses header and returns properties. This is
 mostly designed for uncompressed PCM audio. The WAV files must be stored

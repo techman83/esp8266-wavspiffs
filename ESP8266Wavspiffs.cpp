@@ -28,7 +28,7 @@
  * in the ESP8266 SPIFFS file system.
  */
 
-#include "wavspiffs.h"
+#include "ESP8266Wavspiffs.h"
 
 #define CCCC(c1, c2, c3, c4)    ((c4 << 24) | (c3 << 16) | (c2 << 8) | c1)
 
